@@ -1,0 +1,640 @@
+1,Bitcoin,BTC,$12688514456,$790.53,16050637,https://coinmarketcap.com/currencies/bitcoin/
+2,Ethereum,ETH,$684696573,$7.87,87052600,https://coinmarketcap.com/currencies/ethereum/
+3,XRP,XRP,$235319784,$0.006574,35794578423,https://coinmarketcap.com/currencies/ripple/
+4,Litecoin,LTC,$179940443,$3.68,48937454,https://coinmarketcap.com/currencies/litecoin/
+5,Monero,XMR,$116895341,$8.61,13575133,https://coinmarketcap.com/currencies/monero/
+6,Ethereum Classic,ETC,$91649163,$1.05,86988128,https://coinmarketcap.com/currencies/ethereum-classic/
+7,Dash,DASH,$68843108,$9.89,6963119,https://coinmarketcap.com/currencies/dash/
+8,MaidSafeCoin,MAID,$42866981,$0.094723,452552412,https://coinmarketcap.com/currencies/maidsafecoin/
+9,Steem,STEEM,$38786628,$0.169774,228459836,https://coinmarketcap.com/currencies/steem/
+10,NEM,XEM,$34370501,$0.003819,8999999999,https://coinmarketcap.com/currencies/nem/
+11,Augur,REP,$34103285,$3.10,11000000,https://coinmarketcap.com/currencies/augur/
+12,Factom,FCT,$23640622,$2.70,8753219,https://coinmarketcap.com/currencies/factom/
+13,Dogecoin,DOGE,$23430736,$0.000218,107349290302,https://coinmarketcap.com/currencies/dogecoin/
+14,Waves,WAVES,$22850314,$0.228503,100000000,https://coinmarketcap.com/currencies/waves/
+15,Stellar,XLM,$20072252,$0.002900,6921534188,https://coinmarketcap.com/currencies/stellar/
+16,Iconomi,ICN,$19590786,$0.225181,87000000,https://coinmarketcap.com/currencies/iconomi/
+17,DigixDAO,DGD,$18473589,$9.24,2000000,https://coinmarketcap.com/currencies/digixdao/
+18,Peerplays [old],PPY,$17587111,$17.59,1000000,https://coinmarketcap.com/currencies/peerplays/
+19,Lisk,LSK,$15039043,$0.150390,100000000,https://coinmarketcap.com/currencies/lisk/
+20,GameCredits,GAME,$13037771,$0.219542,59386300,https://coinmarketcap.com/currencies/gamecredits/
+21,Ardor,ARDR,$10013174,$0.010023,998999495,https://coinmarketcap.com/currencies/ardor/
+22,BitShares,BTS,$9715111,$0.003769,2577890000,https://coinmarketcap.com/currencies/bitshares/
+23,Zcash,ZEC,$9096427,$36.44,249644,https://coinmarketcap.com/currencies/zcash/
+24,Gulden,NLG,$9061055,$0.026893,336929345,https://coinmarketcap.com/currencies/gulden/
+25,Bytecoin,BCN,$8485330,$0.000047,182103036666,https://coinmarketcap.com/currencies/bytecoin-bcn/
+26,Emercoin,EMC,$8367718,$0.213751,39147065,https://coinmarketcap.com/currencies/emercoin/
+27,Golem,GNT,$8254968,$0.012122,681009001,https://coinmarketcap.com/currencies/golem-network-tokens/
+28,Xaurum,XAUR,$7915516,$0.089040,88898515,https://coinmarketcap.com/currencies/xaurum/
+29,ShadowCash,SDC,$7398685,$1.12,6609633,https://coinmarketcap.com/currencies/shadowcash/
+30,Storjcoin X,SJCX,$7138193,$0.141440,50468144,https://coinmarketcap.com/currencies/storjcoin-x/
+31,Tether,USDT,$6951635,$1.00,6951590,https://coinmarketcap.com/currencies/tether/
+32,NEO,NEO,$5763012,$0.115260,50000000,https://coinmarketcap.com/currencies/neo/
+33,Counterparty,XCP,$5741439,$2.19,2620946,https://coinmarketcap.com/currencies/counterparty/
+34,Nxt,NXT,$5712596,$0.005718,998999983,https://coinmarketcap.com/currencies/nxt/
+35,BitCrystals,BCY,$5538982,$0.133077,41622441,https://coinmarketcap.com/currencies/bitcrystals/
+36,Syscoin,SYS,$5408790,$0.011005,491472703,https://coinmarketcap.com/currencies/syscoin/
+37,Stratis,STRAT,$5402319,$0.055016,98195263,https://coinmarketcap.com/currencies/stratis/
+38,Peercoin,PPC,$5348339,$0.225453,23722614,https://coinmarketcap.com/currencies/peercoin/
+39,SingularDTV,SNGLS,$5333403,$0.008889,600000000,https://coinmarketcap.com/currencies/singulardtv/
+40,I/O Coin,IOC,$4531028,$0.277999,16298745,https://coinmarketcap.com/currencies/iocoin/
+41,Rubycoin,RBY,$4442891,$0.186632,23805578,https://coinmarketcap.com/currencies/rubycoin/
+42,Siacoin,SC,$4406715,$0.000205,21499138400,https://coinmarketcap.com/currencies/siacoin/
+43,YbCoin,YBC,$3934004,$1.30,3016741,https://coinmarketcap.com/currencies/ybcoin/
+44,BitcoinDark,BTCD,$3914919,$3.04,1288862,https://coinmarketcap.com/currencies/bitcoindark/
+45,HyperSpace,AMP,$3474561,$0.042241,82256324,https://coinmarketcap.com/currencies/synereo/
+46,Swiscoin,SCN,$3158408,$0.006656,474502105,https://coinmarketcap.com/currencies/swiscoin/
+47,Global Currency Reserve,GCR,$2844317,$0.027901,101944531,https://coinmarketcap.com/currencies/global-currency-reserve/
+48,NavCoin,NAV,$2786540,$0.046115,60425960,https://coinmarketcap.com/currencies/nav-coin/
+49,PotCoin,POT,$2664272,$0.012384,215137356,https://coinmarketcap.com/currencies/potcoin/
+50,Namecoin,NMC,$2661476,$0.180606,14736400,https://coinmarketcap.com/currencies/namecoin/
+51,SolarCoin,SLR,$2436579,$0.070114,34751838,https://coinmarketcap.com/currencies/solarcoin/
+52,Round,ROUND,$2150242,$0.002530,850000000,https://coinmarketcap.com/currencies/round/
+53,BlackCoin,BLK,$2032265,$0.026794,75848269,https://coinmarketcap.com/currencies/blackcoin/
+54,LoMoCoin,LMC,$1933554,$0.009198,210204405,https://coinmarketcap.com/currencies/lomocoin/
+55,DigiByte,DGB,$1827266,$0.000237,7706050240,https://coinmarketcap.com/currencies/digibyte/
+56,GridCoin,GRC,$1795286,$0.004676,383946351,https://coinmarketcap.com/currencies/gridcoin/
+57,Decred,DCR,$1703031,$0.504716,3374236,https://coinmarketcap.com/currencies/decred/
+58,SuperNET,UNITY,$1613282,$1.98,816061,https://coinmarketcap.com/currencies/supernet-unity/
+59,Adzcoin,ADZ,$1597039,$0.031711,50361760,https://coinmarketcap.com/currencies/adzcoin/
+60,Clams,CLAM,$1563653,$0.764350,2045729,https://coinmarketcap.com/currencies/clams/
+61,Omni,OMNI,$1554375,$2.90,536722,https://coinmarketcap.com/currencies/omni/
+62,HiCoin,XHI,$1355234,$0.007143,189729990,https://coinmarketcap.com/currencies/hicoin/
+63,Steem Dollars,SBD,$1216759,$1.00,1215564,https://coinmarketcap.com/currencies/steem-dollars/
+64,Yocoin,YOC,$1197120,$0.018764,63798830,https://coinmarketcap.com/currencies/yocoin/
+65,Hacker Gold,HKG,$1098739,$0.070648,15552278,https://coinmarketcap.com/currencies/hacker-gold/
+66,VPNCoin,VASH,$1095783,$0.002737,400339746,https://coinmarketcap.com/currencies/vpncoin/
+67,Feathercoin,FTC,$1065468,$0.007313,145698920,https://coinmarketcap.com/currencies/feathercoin/
+68,SIBCoin,SIB,$1051131,$0.081513,12895225,https://coinmarketcap.com/currencies/sibcoin/
+69,Burst,BURST,$1046741,$0.000631,1658100843,https://coinmarketcap.com/currencies/burst/
+70,Auroracoin,AUR,$1027079,$0.118626,8658139,https://coinmarketcap.com/currencies/auroracoin/
+71,Radium,RADS,$1016141,$0.332530,3055786,https://coinmarketcap.com/currencies/radium/
+72,Expanse,EXP,$954440,$0.201920,4726823,https://coinmarketcap.com/currencies/expanse/
+73,BitBay,BAY,$930028,$0.000924,1006767384,https://coinmarketcap.com/currencies/bitbay/
+74,Curecoin,CURE,$924364,$0.034972,26431310,https://coinmarketcap.com/currencies/curecoin/
+75,Vertcoin,VTC,$915254,$0.029032,31525737,https://coinmarketcap.com/currencies/vertcoin/
+76,EarthCoin,EAC,$908595,$0.000097,9346468332,https://coinmarketcap.com/currencies/earthcoin/
+77,Xenixcoin,XEN,$857648,$1.19,719092,https://coinmarketcap.com/currencies/xenixcoin/
+78,Quark,QRK,$852378,$0.003408,250101047,https://coinmarketcap.com/currencies/quark/
+79,NautilusCoin,NAUT,$833702,$0.051527,16180000,https://coinmarketcap.com/currencies/nautiluscoin/
+80,Primecoin,XPM,$833316,$0.048288,17257372,https://coinmarketcap.com/currencies/primecoin/
+81,CloakCoin,CLOAK,$820925,$0.169560,4841489,https://coinmarketcap.com/currencies/cloakcoin/
+82,Qora,QORA,$790195,$0.000079,10000000000,https://coinmarketcap.com/currencies/qora/
+83,VeriCoin,VRC,$758655,$0.025404,29864069,https://coinmarketcap.com/currencies/vericoin/
+84,Aeon,AEON,$749154,$0.056906,13164799,https://coinmarketcap.com/currencies/aeon/
+85,WorldCoin,WDC,$740022,$0.006653,111224486,https://coinmarketcap.com/currencies/worldcoin/
+86,Veros,VRS,$716665,$0.080852,8863894,https://coinmarketcap.com/currencies/veros/
+87,Boolberry,BBR,$697335,$0.080334,8680457,https://coinmarketcap.com/currencies/boolberry/
+88,Blocknet,BLOCK,$692941,$0.177199,3910516,https://coinmarketcap.com/currencies/blocknet/
+89,Vcash,XVC,$678076,$0.045125,15026660,https://coinmarketcap.com/currencies/vcash/
+90,DNotes,NOTE,$657044,$0.005925,110895736,https://coinmarketcap.com/currencies/dnotes/
+91,Novacoin,NVC,$623799,$0.394281,1582118,https://coinmarketcap.com/currencies/novacoin/
+92,DubaiCoin,DBIC,$581898,$0.098004,5937465,https://coinmarketcap.com/currencies/dubaicoin/
+93,MMNXT,MMNXT,$567951,$0.056795,10000000,https://coinmarketcap.com/currencies/mmnxt/
+94,BlockPay,BLOCKPAY,$552143,$0.101716,5428300,https://coinmarketcap.com/currencies/blockpay/
+95,Viacoin,VIA,$496218,$0.022358,22194059,https://coinmarketcap.com/currencies/viacoin/
+96,Asiadigicoin,ADCN,$490505,$0.055931,8769863,https://coinmarketcap.com/currencies/asiadigicoin/
+97,GoldCoin,GLC,$479264,$0.012020,39870892,https://coinmarketcap.com/currencies/goldcoin/
+98,Megacoin,MEC,$456228,$0.013873,32886450,https://coinmarketcap.com/currencies/megacoin/
+99,LBRY Credits,LBC,$443328,$0.013106,33825450,https://coinmarketcap.com/currencies/library-credit/
+100,HitCoin,HTC,$442627,$0.000040,10996318099,https://coinmarketcap.com/currencies/hitcoin/
+101,FoldingCoin,FLDC,$437835,$0.000964,454333654,https://coinmarketcap.com/currencies/foldingcoin/
+102,SaluS,SLS,$431164,$0.430195,1002253,https://coinmarketcap.com/currencies/salus/
+103,EuropeCoin,ERC,$429600,$0.044254,9707625,https://coinmarketcap.com/currencies/europecoin/
+104,Cryptonite,XCN,$401588,$0.001956,205328613,https://coinmarketcap.com/currencies/cryptonite/
+105,PIVX,PIVX,$393698,$0.007941,49576281,https://coinmarketcap.com/currencies/pivx/
+106,Circuits of Value,COVAL,$382504,$0.000956,400000000,https://coinmarketcap.com/currencies/circuits-of-value/
+107,TrumpCoin,TRUMP,$378141,$0.057946,6525758,https://coinmarketcap.com/currencies/trumpcoin/
+108,ZcCoin,ZCC,$355435,$0.005765,61657044,https://coinmarketcap.com/currencies/zccoin/
+109,RevolutionVR,RVR,$328698,$0.010435,31500000,https://coinmarketcap.com/currencies/revolutionvr/
+110,Startcoin,START,$328233,$0.007281,45079785,https://coinmarketcap.com/currencies/startcoin/
+111,Bela,BELA,$327459,$0.011372,28796000,https://coinmarketcap.com/currencies/belacoin/
+112,Stress,STS,$312617,$0.000553,565134332,https://coinmarketcap.com/currencies/stress/
+113,NuShares,NSR,$309183,$0.000190,1630200855,https://coinmarketcap.com/currencies/nushares/
+114,BoostCoin,BOST,$306643,$0.025865,11855487,https://coinmarketcap.com/currencies/boostcoin/
+115,Bitmark,BTM,$298592,$0.095328,3132276,https://coinmarketcap.com/currencies/bitmark/
+116,Joincoin,J,$292781,$0.119580,2448402,https://coinmarketcap.com/currencies/joincoin/
+117,Myriad,XMY,$283384,$0.000198,1434406496,https://coinmarketcap.com/currencies/myriad/
+118,Riecoin,RIC,$281482,$0.009558,29450175,https://coinmarketcap.com/currencies/riecoin/
+119,Wild Beast Block,WBB,$263405,$0.126749,2078160,https://coinmarketcap.com/currencies/wild-beast-block/
+120,Applecoin,APC,$262596,$0.011783,22286048,https://coinmarketcap.com/currencies/applecoin/
+121,vTorrent,VTR,$261034,$0.024134,10815966,https://coinmarketcap.com/currencies/vtorrent/
+122,Swing,SWING,$258415,$0.145772,1772735,https://coinmarketcap.com/currencies/swing/
+123,Zeitcoin,ZEIT,$253378,$0.000007,35890632065,https://coinmarketcap.com/currencies/zeitcoin/
+124,GoldBlocks,GB,$249620,$0.018529,13472078,https://coinmarketcap.com/currencies/goldblocks/
+125,VootCoin,VOOT,$246370,$0.003556,69280656,https://coinmarketcap.com/currencies/vootcoin/
+126,Stealth,XST,$244910,$0.009774,25056167,https://coinmarketcap.com/currencies/stealth/
+127,Ubiq,UBQ,$219089,$0.060225,3637847,https://coinmarketcap.com/currencies/ubiq/
+128,NeosCoin,NEOS,$213119,$0.068422,3114755,https://coinmarketcap.com/currencies/neoscoin/
+129,Horizon,HZ,$212847,$0.000213,997285886,https://coinmarketcap.com/currencies/next-horizon/
+130,Verge,XVG,$202362,$0.000016,12793464160,https://coinmarketcap.com/currencies/verge/
+131,PinkCoin,PINK,$181605,$0.000498,364774685,https://coinmarketcap.com/currencies/pinkcoin/
+132,StabilityShares,XSI,$177357,$0.019170,9251928,https://coinmarketcap.com/currencies/stabilityshares/
+133,Pesobit,PSB,$170961,$0.008330,20524562,https://coinmarketcap.com/currencies/pesobit/
+134,Zcoin,XZC,$161947,$0.393601,411450,https://coinmarketcap.com/currencies/zcoin/
+135,CannabisCoin,CANN,$161541,$0.002092,77231038,https://coinmarketcap.com/currencies/cannabiscoin/
+136,PostCoin,POST,$154122,$0.009958,15477795,https://coinmarketcap.com/currencies/postcoin/
+137,bitCNY,BITCNY,$144094,$0.140161,1028060,https://coinmarketcap.com/currencies/bitcny/
+138,Synergy,SNRG,$139422,$0.059056,2360843,https://coinmarketcap.com/currencies/synergy/
+139,ZClassic,ZCL,$138077,$0.447267,308713,https://coinmarketcap.com/currencies/zclassic/
+140,1CRedit,1CR,$134971,$1.91,70573,https://coinmarketcap.com/currencies/1credit/
+141,Capricoin,CPC,$134595,$0.158122,851209,https://coinmarketcap.com/currencies/capricoin/
+142,Coin2.1,C2,$111399,$0.001114,99976323,https://coinmarketcap.com/currencies/coin2-1/
+143,Shift,SHIFT,$107589,$0.010422,10323140,https://coinmarketcap.com/currencies/shift/
+144,Artex Coin,ATX,$106074,$0.005782,18345065,https://coinmarketcap.com/currencies/artex-coin/
+145,GoldPieces,GP,$105268,$0.086274,1220161,https://coinmarketcap.com/currencies/goldpieces/
+146,Xiaomicoin,MI,$102631,$0.000253,405851442,https://coinmarketcap.com/currencies/xiaomicoin/
+147,Blitzcash,BLITZ,$95632,$0.023707,4033842,https://coinmarketcap.com/currencies/blitzcash/
+148,Cryptojacks,CJ,$86716,$0.000214,405413241,https://coinmarketcap.com/currencies/cryptojacks/
+149,Dotcoin,DOT,$58516,$0.000316,185129000,https://coinmarketcap.com/currencies/dotcoin/
+150,Syndicate,SYNX,$56832,$0.007341,7741320,https://coinmarketcap.com/currencies/syndicate/
+151,The Cypherfunks,FUNK,$52745,$0.000001,42190595000,https://coinmarketcap.com/currencies/the-cypherfunks/
+152,NeuCoin,NEU,$50472,$0.000055,912414847,https://coinmarketcap.com/currencies/neucoin/
+153,VeriumReserve,VRM,$49624,$0.063258,784469,https://coinmarketcap.com/currencies/veriumreserve/
+154,Wexcoin,WEX,$48693,$0.639610,76129,https://coinmarketcap.com/currencies/wexcoin/
+155,PutinCoin,PUT,$48621,$0.000490,99236592,https://coinmarketcap.com/currencies/putincoin/
+156,SACoin,SAC,$43388,$0.152667,284200,https://coinmarketcap.com/currencies/sacoin/
+157,Truckcoin,TRK,$37200,$0.000387,96013511,https://coinmarketcap.com/currencies/truckcoin/
+158,Pascal Coin,PASC,$35496,$0.008190,4334100,https://coinmarketcap.com/currencies/pascal-coin/
+159,VIP Tokens,VIP,$31654,$0.000379,83450403,https://coinmarketcap.com/currencies/vip-tokens/
+160,Zayedcoin,ZYD,$26710,$0.007281,3668600,https://coinmarketcap.com/currencies/zayedcoin/
+161,Atomic Coin,ATOM,$24632,$0.003359,7332714,https://coinmarketcap.com/currencies/atomic-coin/
+162,CrevaCoin,CREVA,$18237,$0.000513,35519400,https://coinmarketcap.com/currencies/crevacoin/
+163,GlobalBoost-Y,BSTY,$17790,$0.001644,10824180,https://coinmarketcap.com/currencies/globalboost-y/
+164,SongCoin,SONG,$10036,$0.000308,32565300,https://coinmarketcap.com/currencies/songcoin/
+165,Eternity,ENT,$5513,$0.005134,1073842,https://coinmarketcap.com/currencies/eternity/
+166,Agoras Tokens,AGRS,$4978563,$0.118537,42000000,https://coinmarketcap.com/currencies/agoras-tokens/
+167,Scotcoin,SCOT,$1604203,$0.001604,1000000000,https://coinmarketcap.com/currencies/scotcoin/
+168,Lykke,LKK,$1441952,$0.048065,30000000,https://coinmarketcap.com/currencies/lykke/
+169,Qwark,QWARK,$1351020,$0.021677,62326485,https://coinmarketcap.com/currencies/qwark/
+170,Nexus,NXS,$1283780,$0.028449,45125776,https://coinmarketcap.com/currencies/nexus/
+171,FuelCoin,FC2,$1122114,$0.011087,101208259,https://coinmarketcap.com/currencies/fuelcoin/
+172,MonaCoin,MONA,$1112740,$0.025855,43036950,https://coinmarketcap.com/currencies/monacoin/
+173,ION,ION,$1024608,$0.107690,9514440,https://coinmarketcap.com/currencies/ion/
+174,FairCoin,FAIR,$1023774,$0.019361,52877959,https://coinmarketcap.com/currencies/faircoin/
+175,DigitalNote,XDN,$977079,$0.000142,6872309558,https://coinmarketcap.com/currencies/digitalnote/
+176,ReddCoin,RDD,$882044,$0.000031,28279196459,https://coinmarketcap.com/currencies/reddcoin/
+177,NuBits,USNBT,$765211,$1.01,757084,https://coinmarketcap.com/currencies/nubits/
+178,FedoraCoin,TIPS,$764083,$0.000002,443168182458,https://coinmarketcap.com/currencies/fedoracoin/
+179,Breakout Stake,BRX,$733689,$0.117052,6268082,https://coinmarketcap.com/currencies/breakout-stake/
+180,MintCoin,MINT,$685232,$0.000029,23947821934,https://coinmarketcap.com/currencies/mintcoin/
+181,Arcade Token,ARC,$629331,$0.078653,8001334,https://coinmarketcap.com/currencies/arcade-token/
+182,AsiaCoin,AC,$616047,$0.000972,633789794,https://coinmarketcap.com/currencies/asiacoin/
+183,Gambit,GAM,$473795,$0.344935,1373576,https://coinmarketcap.com/currencies/gambit/
+184,Jinn,JINN,$470290,$8.01,58703,https://coinmarketcap.com/currencies/jinn/
+185,OBITS,OBITS,$469547,$0.060515,7759209,https://coinmarketcap.com/currencies/obits/
+186,Energycoin,ENRG,$455164,$0.003777,120497082,https://coinmarketcap.com/currencies/energycoin/
+187,SounDAC,XSD,$440200,$0.000320,1374840478,https://coinmarketcap.com/currencies/bitshares-music/
+188,PLAY,PLS,$425307,$0.000213,1999862899,https://coinmarketcap.com/currencies/play/
+189,CasinoCoin,CSC,$421723,$0.010925,38601187,https://coinmarketcap.com/currencies/casinocoin/
+190,OKCash,OK,$419256,$0.006064,69137208,https://coinmarketcap.com/currencies/okcash/
+191,Zetacoin,ZET,$411076,$0.002488,165254780,https://coinmarketcap.com/currencies/zetacoin/
+192,Diamond,DMD,$392814,$0.209305,1876752,https://coinmarketcap.com/currencies/diamond/
+193,Project Decorum,PDC,$388012,$0.007760,50000000,https://coinmarketcap.com/currencies/project-decorum/
+194,FLO,FLO,$387360,$0.003119,124197561,https://coinmarketcap.com/currencies/flo/
+195,Safe Exchange Coin,SAFEX,$376090,$0.000175,2147483647,https://coinmarketcap.com/currencies/safe-exchange-coin/
+196,BilShares,BILS,$373606,$0.000374,1000000000,https://coinmarketcap.com/currencies/bilshares/
+197,LuckChain,BASH,$364011,$0.000368,990334328,https://coinmarketcap.com/currencies/luckchain/
+198,InstantDEX,DEX,$348817,$0.348817,1000000,https://coinmarketcap.com/currencies/instantdex/
+199,Infinitecoin,IFC,$348534,$0.000004,90596274910,https://coinmarketcap.com/currencies/infinitecoin/
+200,HTML5COIN,HTML5,$322635,$0.000008,40659020000,https://coinmarketcap.com/currencies/htmlcoin5/
+201,Diem,DIEM,$302097,$0.000014,21739971929,https://coinmarketcap.com/currencies/diem/
+202,Unobtanium,UNO,$294657,$1.49,197534,https://coinmarketcap.com/currencies/unobtanium/
+203,Orbitcoin,ORB,$286573,$0.101089,2834845,https://coinmarketcap.com/currencies/orbitcoin/
+204,Virtacoin,VTA,$283170,$0.000024,12022673172,https://coinmarketcap.com/currencies/virtacoin/
+205,GetGems,GEMZ,$278662,$0.003162,88135199,https://coinmarketcap.com/currencies/gems/
+206,Rise,RISE,$273536,$0.002593,105487795,https://coinmarketcap.com/currencies/rise/
+207,I0Coin,I0C,$272474,$0.013000,20960215,https://coinmarketcap.com/currencies/i0coin/
+208,Digitalcoin,DGC,$262997,$0.007648,34389793,https://coinmarketcap.com/currencies/digitalcoin/
+209,Sequence,SEQ,$241295,$0.005455,44236427,https://coinmarketcap.com/currencies/sequence/
+210,AmberCoin,AMBER,$239726,$0.005502,43569966,https://coinmarketcap.com/currencies/ambercoin/
+211,Triggers,TRIG,$218526,$0.006806,32105593,https://coinmarketcap.com/currencies/triggers/
+212,ICO OpenLedger,ICOO,$213903,$0.450430,474887,https://coinmarketcap.com/currencies/ico-openledger/
+213,Mooncoin,MOON,$208295,$9.5e-07,219096378711,https://coinmarketcap.com/currencies/mooncoin/
+214,Fantomcoin,FCN,$206657,$0.040303,5127640,https://coinmarketcap.com/currencies/fantomcoin/
+215,e-Gulden,EFL,$203086,$0.013519,15022804,https://coinmarketcap.com/currencies/e-gulden/
+216,Crown,CRW,$201276,$0.017148,11737294,https://coinmarketcap.com/currencies/crown/
+217,Einsteinium,EMC2,$198318,$0.000964,205805613,https://coinmarketcap.com/currencies/einsteinium/
+218,EverGreenCoin,EGC,$193655,$0.014684,13188454,https://coinmarketcap.com/currencies/evergreencoin/
+219,UnionCoin,UNC,$192864,$0.022991,8388608,https://coinmarketcap.com/currencies/unioncoin/
+220,Bitswift,BITS,$186630,$0.046020,4055448,https://coinmarketcap.com/currencies/bitswift/
+221,Breakout,BRK,$184039,$0.010540,17461008,https://coinmarketcap.com/currencies/breakout/
+222,HunterCoin,HUC,$173659,$0.011403,15228840,https://coinmarketcap.com/currencies/huntercoin/
+223,SmileyCoin,SMLY,$170748,$0.000007,25584760000,https://coinmarketcap.com/currencies/smileycoin/
+224,LTBcoin,LTBC,$170447,$0.000348,490199245,https://coinmarketcap.com/currencies/ltbcoin/
+225,GeoCoin,GEO,$164929,$0.067179,2455079,https://coinmarketcap.com/currencies/geocoin/
+226,2GIVE,2GIVE,$163872,$0.000324,506075103,https://coinmarketcap.com/currencies/2give/
+227,NobleCoin,NOBL,$162450,$0.000071,2284091995,https://coinmarketcap.com/currencies/noblecoin/
+228,TagCoin,TAG,$159513,$0.031613,5045834,https://coinmarketcap.com/currencies/tagcoin/
+229,SecureCoin,SRC,$147106,$0.020979,7011941,https://coinmarketcap.com/currencies/securecoin/
+230,MAZA,MAZA,$146145,$0.000134,1092618137,https://coinmarketcap.com/currencies/mazacoin/
+231,AudioCoin,ADC,$134511,$0.000170,791511349,https://coinmarketcap.com/currencies/audiocoin/
+232,SpreadCoin,SPR,$134348,$0.018966,7083618,https://coinmarketcap.com/currencies/spreadcoin/
+233,Gycoin,GYC,$133473,$0.003178,42000000,https://coinmarketcap.com/currencies/gycoin/
+234,Woodcoin,LOG,$133282,$0.016587,8035193,https://coinmarketcap.com/currencies/woodcoin/
+235,Jewels,JWL,$133021,$0.006628,20069050,https://coinmarketcap.com/currencies/jewels/
+236,Bitcoin Plus,XBC,$132856,$1.46,91048,https://coinmarketcap.com/currencies/bitcoin-plus/
+237,Pepe Cash,PEPECASH,$132229,$0.000188,701884009,https://coinmarketcap.com/currencies/pepe-cash/
+238,HempCoin,HMP,$128572,$0.000095,1355820410,https://coinmarketcap.com/currencies/hempcoin-hmp/
+239,XCurrency,XC,$126846,$0.022090,5742366,https://coinmarketcap.com/currencies/xcurrency/
+240,Librexcoin,LXC,$126611,$0.012918,9800962,https://coinmarketcap.com/currencies/librexcoin/
+241,BTCtalkcoin,TALK,$121947,$0.001868,65290635,https://coinmarketcap.com/currencies/btctalkcoin/
+242,Bullion,CBX,$120726,$0.122303,987106,https://coinmarketcap.com/currencies/bullion/
+243,Magi,XMG,$119485,$0.019030,6278864,https://coinmarketcap.com/currencies/magi/
+244,Ixcoin,IXC,$118770,$0.005656,20999088,https://coinmarketcap.com/currencies/ixcoin/
+245,Mineum,MNM,$117218,$0.012422,9436367,https://coinmarketcap.com/currencies/mineum/
+246,Sync,SYNC,$116350,$98.86,1177,https://coinmarketcap.com/currencies/sync/
+247,Pandacoin,PND,$108494,$0.000003,32514916898,https://coinmarketcap.com/currencies/pandacoin-pnd/
+248,bitUSD,BITUSD,$107751,$0.997184,108055,https://coinmarketcap.com/currencies/bitusd/
+249,WhiteCoin,XWC,$103990,$0.000339,306584146,https://coinmarketcap.com/currencies/whitecoin/
+250,Pangea Poker,PANGEA,$102439,$0.102505,999352,https://coinmarketcap.com/currencies/pangea-poker/
+251,Bitland,CADASTRAL,$101764,$0.003392,30000000,https://coinmarketcap.com/currencies/bitland/
+252,Rimbit,RBT,$100401,$0.000869,115499623,https://coinmarketcap.com/currencies/rimbit/
+253,Bitstar,BITS,$98758,$0.005247,18820916,https://coinmarketcap.com/currencies/bitstar/
+254,BillaryCoin,BLRY,$95611,$0.010660,8968724,https://coinmarketcap.com/currencies/billarycoin/
+255,Bytecent,BYC,$94940,$0.068925,1377425,https://coinmarketcap.com/currencies/bytecent/
+256,Dimecoin,DIME,$93644,$1.8e-07,512911311440,https://coinmarketcap.com/currencies/dimecoin/
+257,Maxcoin,MAX,$90687,$0.001666,54442678,https://coinmarketcap.com/currencies/maxcoin/
+258,MonetaryUnit,MUE,$86569,$0.000802,107931800,https://coinmarketcap.com/currencies/monetaryunit/
+259,MediterraneanCoin,MED,$86268,$0.002134,40431897,https://coinmarketcap.com/currencies/mediterraneancoin/
+260,Groestlcoin,GRS,$84691,$0.001280,66150991,https://coinmarketcap.com/currencies/groestlcoin/
+261,UltraCoin,UTC,$83861,$0.002600,32255290,https://coinmarketcap.com/currencies/ultracoin/
+262,BitSend,BSD,$81685,$0.006123,13340700,https://coinmarketcap.com/currencies/bitsend/
+263,Coin(O),CNO,$78108,$0.000774,100857202,https://coinmarketcap.com/currencies/coin/
+264,Rubies,RBIES,$77674,$0.007586,10238560,https://coinmarketcap.com/currencies/rubies/
+265,Canada eCoin,CDN,$77660,$0.000799,97250042,https://coinmarketcap.com/currencies/canada-ecoin/
+266,Creditbit,CRB,$76964,$0.006172,12470149,https://coinmarketcap.com/currencies/creditbit/
+267,Flycoin,FLY,$76461,$0.362708,210806,https://coinmarketcap.com/currencies/flycoin/
+268,Terracoin,TRC,$76179,$0.004271,17837780,https://coinmarketcap.com/currencies/terracoin/
+269,Tickets,TIX,$74663,$0.000001,66876281414,https://coinmarketcap.com/currencies/tickets/
+270,Qibuck,QBK,$74607,$0.141873,525874,https://coinmarketcap.com/currencies/qibuck/
+271,Dashcoin,DSH,$73898,$0.004393,16821387,https://coinmarketcap.com/currencies/dashcoin/
+272,Krypton,KR,$73338,$0.025196,2910710,https://coinmarketcap.com/currencies/krypton/
+273,Bean Cash,BITB,$72050,$0.000042,1701258000,https://coinmarketcap.com/currencies/bean-cash/
+274,NoLimitCoin,NLC2,$71199,$0.000356,200142821,https://coinmarketcap.com/currencies/nolimitcoin/
+275,Nyancoin,NYAN,$70124,$0.000236,296962016,https://coinmarketcap.com/currencies/nyancoin/
+276,ArtByte,ABY,$68796,$0.000095,725471650,https://coinmarketcap.com/currencies/artbyte/
+277,LIQUID,LQD,$67957,$0.198870,341714,https://coinmarketcap.com/currencies/liquid/
+278,ECC,ECC,$64031,$0.000003,20954743057,https://coinmarketcap.com/currencies/eccoin/
+279,Elcoin,EL,$61567,$0.005493,11208967,https://coinmarketcap.com/currencies/elcoin-el/
+280,NetCoin,NET,$61400,$0.000079,776941577,https://coinmarketcap.com/currencies/netcoin/
+281,DopeCoin,DOPE,$60237,$0.000427,141157233,https://coinmarketcap.com/currencies/dopecoin/
+282,Sexcoin,SXC,$60069,$0.000503,119314564,https://coinmarketcap.com/currencies/sexcoin/
+283,Quatloo,QTL,$59807,$0.011815,5062002,https://coinmarketcap.com/currencies/quatloo/
+284,Colossuscoin V2,CV2,$57136,$0.000003,21581870049,https://coinmarketcap.com/currencies/colossuscoin-v2/
+285,HempCoin,THC,$56268,$0.000269,209420971,https://coinmarketcap.com/currencies/hempcoin/
+286,TileCoin,XTC,$54604,$0.000546,100000000,https://coinmarketcap.com/currencies/tilecoin/
+287,TrustPlus,TRUST,$54516,$0.001699,32086595,https://coinmarketcap.com/currencies/trustplus/
+288,BlueCoin,BLU,$53950,$0.000094,574208469,https://coinmarketcap.com/currencies/bluecoin/
+289,Piggycoin,PIGGY,$53357,$0.000111,482166312,https://coinmarketcap.com/currencies/piggycoin/
+290,SwagBucks,BUCKS,$53315,$0.505699,105429,https://coinmarketcap.com/currencies/swagbucks/
+291,DeBuNe,DEBUNE,$53004,$0.228732,231731,https://coinmarketcap.com/currencies/debune/
+292,RussiaCoin,RC,$52135,$0.006417,8124671,https://coinmarketcap.com/currencies/russiacoin/
+293,The Viral Exchange,TVE,$51736,$0.105817,488918,https://coinmarketcap.com/currencies/the-viral-exchange/
+294,Kore,KORE,$50931,$0.027817,1830949,https://coinmarketcap.com/currencies/korecoin/
+295,QubitCoin,Q2C,$50925,$0.000206,247144713,https://coinmarketcap.com/currencies/qubitcoin/
+296,Tao,XTO,$50888,$0.001692,30073879,https://coinmarketcap.com/currencies/tao/
+297,Hyper,HYPER,$48213,$0.006670,7228712,https://coinmarketcap.com/currencies/hyper/
+298,IncaKoin,NKA,$47698,$0.000008,6035881370,https://coinmarketcap.com/currencies/incakoin/
+299,Moin,MOIN,$47608,$0.007153,6655572,https://coinmarketcap.com/currencies/moin/
+300,HOdlcoin,HODL,$45285,$0.001533,29538705,https://coinmarketcap.com/currencies/hodlcoin/
+301,Elite,1337,$43918,$0.000003,15174221121,https://coinmarketcap.com/currencies/1337coin/
+302,CannaCoin,CCN,$40768,$0.008693,4689846,https://coinmarketcap.com/currencies/cannacoin/
+303,Kobocoin,KOBO,$37385,$0.001539,24290004,https://coinmarketcap.com/currencies/kobocoin/
+304,DT Token,DRACO,$36551,$0.000632,57815550,https://coinmarketcap.com/currencies/dt-token/
+305,Deutsche eMark,DEM,$36177,$0.001330,27191579,https://coinmarketcap.com/currencies/deutsche-emark/
+306,bitBTC,BITBTC,$35847,$866.44,41.3731,https://coinmarketcap.com/currencies/bitbtc/
+307,Sterlingcoin,SLG,$35804,$0.009225,3881156,https://coinmarketcap.com/currencies/sterlingcoin/
+308,Memetic / PepeCoin,MEME,$33765,$0.002805,12035754,https://coinmarketcap.com/currencies/memetic/
+309,MarteXcoin,MXT,$33733,$0.012399,2720609,https://coinmarketcap.com/currencies/martexcoin/
+310,MojoCoin,MOJO,$32966,$0.000306,107808977,https://coinmarketcap.com/currencies/mojocoin/
+311,Pesetacoin,PTC,$32699,$0.000284,115164649,https://coinmarketcap.com/currencies/pesetacoin/
+312,Pakcoin,PAK,$32659,$0.001114,29314250,https://coinmarketcap.com/currencies/pakcoin/
+313,Bata,BTA,$32581,$0.006695,4866634,https://coinmarketcap.com/currencies/bata/
+314,ARCHcoin,ARCH,$31298,$0.001889,16571097,https://coinmarketcap.com/currencies/archcoin/
+315,Karbo,KRB,$29471,$0.014576,2021901,https://coinmarketcap.com/currencies/karbo/
+316,Sphere,SPHR,$28626,$0.009285,3082940,https://coinmarketcap.com/currencies/sphere/
+317,Cryptofund,FUND,$28592,$0.028592,1000000,https://coinmarketcap.com/currencies/cryptofund/
+318,WayGuide,WAY,$28469,$0.000285,100033245,https://coinmarketcap.com/currencies/wayguide/
+319,LottoCoin,LOT,$26091,$0.000002,14491014421,https://coinmarketcap.com/currencies/lottocoin/
+320,Quotient,XQN,$25774,$0.001075,23981265,https://coinmarketcap.com/currencies/quotient/
+321,Anoncoin,ANC,$25599,$0.012130,2110317,https://coinmarketcap.com/currencies/anoncoin/
+322,FlutterCoin,FLT,$25308,$0.000079,320249302,https://coinmarketcap.com/currencies/fluttercoin/
+323,Shorty,SHORTY,$25297,$0.000253,100000000,https://coinmarketcap.com/currencies/shorty/
+324,Sling,SLING,$24921,$0.023202,1074095,https://coinmarketcap.com/currencies/sling/
+325,bitSilver,BITSILVER,$24893,$23.61,1054,https://coinmarketcap.com/currencies/bitsilver/
+326,Sativacoin,STV,$24813,$0.003509,7071890,https://coinmarketcap.com/currencies/sativacoin/
+327,Devcoin,DVC,$24758,$0.000002,10768460050,https://coinmarketcap.com/currencies/devcoin/
+328,ReeCoin,REE,$24523,$0.001983,12367704,https://coinmarketcap.com/currencies/reecoin/
+329,SmartCoin,SMC,$23727,$0.001074,22082310,https://coinmarketcap.com/currencies/smartcoin/
+330,Nullex,NLX,$23670,$0.000585,40477042,https://coinmarketcap.com/currencies/nullex/
+331,QuazarCoin,QCN,$23562,$0.004741,4969257,https://coinmarketcap.com/currencies/quazarcoin-old/
+332,ExclusiveCoin,EXCL,$23450,$0.006053,3873988,https://coinmarketcap.com/currencies/exclusivecoin/
+333,Checkcoin,CKC,$23197,$0.001106,20967410,https://coinmarketcap.com/currencies/checkcoin/
+334,Newbium,NEWB,$22759,$0.000948,24000000,https://coinmarketcap.com/currencies/newbium/
+335,SproutsExtreme,SPEX,$22590,$0.000008,2866607586,https://coinmarketcap.com/currencies/sproutsextreme/
+336,Titcoin,TIT,$21784,$0.000437,49898202,https://coinmarketcap.com/currencies/titcoin/
+337,Trollcoin,TROLL,$21487,$0.000039,546228303,https://coinmarketcap.com/currencies/trollcoin/
+338,bitGold,BITGOLD,$21423,$1808.94,11.8429,https://coinmarketcap.com/currencies/bitgold/
+339,Influxcoin,INFX,$21396,$0.012786,1673383,https://coinmarketcap.com/currencies/influxcoin/
+340,TransferCoin,TX,$21109,$0.003672,5748571,https://coinmarketcap.com/currencies/transfercoin/
+341,Manna,MANNA,$21109,$0.000529,39867785,https://coinmarketcap.com/currencies/manna/
+342,Yacoin,YAC,$20959,$0.000190,110510118,https://coinmarketcap.com/currencies/yacoin/
+343,ParkByte,PKB,$20618,$0.004338,4752466,https://coinmarketcap.com/currencies/parkbyte/
+344,TittieCoin,TIT,$19733,$0.000016,1259816434,https://coinmarketcap.com/currencies/tittiecoin/
+345,SecretCoin,SCRT,$19676,$0.004662,4220099,https://coinmarketcap.com/currencies/secretcoin/
+346,Gapcoin,GAP,$19492,$0.001984,9826712,https://coinmarketcap.com/currencies/gapcoin/
+347,Blakecoin,BLC,$18823,$0.001580,11910789,https://coinmarketcap.com/currencies/blakecoin/
+348,Advanced Technology Coin,ARC,$18661,$0.000862,21656346,https://coinmarketcap.com/currencies/arcticcoin/
+349,PetroDollar,XPD,$18486,$0.000289,63993275,https://coinmarketcap.com/currencies/petrodollar/
+350,BitBar,BTB,$17924,$0.614631,29163,https://coinmarketcap.com/currencies/bitbar/
+351,FujiCoin,FJC,$17650,$0.000023,772193804,https://coinmarketcap.com/currencies/fujicoin/
+352,GlobalCoin,GLC,$17474,$0.000268,65171010,https://coinmarketcap.com/currencies/globalcoin/
+353,InsaneCoin,INSANE,$17454,$0.000953,18311278,https://coinmarketcap.com/currencies/insanecoin/
+354,Elementrem,ELE,$16464,$0.000818,20123885,https://coinmarketcap.com/currencies/elementrem/
+355,TEKcoin,TEK,$16378,$0.000016,1036258796,https://coinmarketcap.com/currencies/tekcoin/
+356,Universal Currency,UNIT,$15979,$0.001225,13046431,https://coinmarketcap.com/currencies/universal-currency/
+357,UnbreakableCoin,UNB,$15707,$0.006895,2278150,https://coinmarketcap.com/currencies/unbreakablecoin/
+358,HyperStake,HYP,$15244,$0.000040,385796097,https://coinmarketcap.com/currencies/hyperstake/
+359,Bottlecaps,CAP,$14629,$0.000158,92524088,https://coinmarketcap.com/currencies/bottlecaps/
+360,Freicoin,FRC,$14509,$0.000316,45962594,https://coinmarketcap.com/currencies/freicoin/
+361,HoboNickels,HBN,$14267,$0.000403,35400764,https://coinmarketcap.com/currencies/hobonickels/
+362,Granite,GRN,$13840,$0.000435,31843200,https://coinmarketcap.com/currencies/granitecoin/
+363,BERNcash,BERN,$13449,$0.000221,60879453,https://coinmarketcap.com/currencies/berncash/
+364,ARbit,ARB,$13361,$0.002529,5283510,https://coinmarketcap.com/currencies/arbit/
+365,X-Coin,XCO,$13179,$0.001064,12384976,https://coinmarketcap.com/currencies/x-coin/
+366,Neutron,NTRN,$13110,$0.001039,12617684,https://coinmarketcap.com/currencies/neutron/
+367,Ratecoin,XRA,$12450,$0.000127,98402103,https://coinmarketcap.com/currencies/ratecoin/
+368,BBQCoin,BQC,$12019,$0.000237,50765854,https://coinmarketcap.com/currencies/bbqcoin/
+369,MasterTraderCoin,MTR,$11841,$0.001122,10552429,https://coinmarketcap.com/currencies/mastertradercoin/
+370,CryptoEscudo,CESC,$11738,$0.000081,144105100,https://coinmarketcap.com/currencies/cryptoescudo/
+371,Franko,FRK,$11708,$0.018381,636950,https://coinmarketcap.com/currencies/franko/
+372,Uro,URO,$11659,$0.009728,1198463,https://coinmarketcap.com/currencies/uro/
+373,Veltor,VLT,$11494,$0.023716,484650,https://coinmarketcap.com/currencies/veltor/
+374,GCN Coin,GCN,$11236,$1.3e-07,88621910000,https://coinmarketcap.com/currencies/gcn-coin/
+375,SOILcoin,SOIL,$11223,$0.003319,3381312,https://coinmarketcap.com/currencies/soilcoin/
+376,UCoin,U,$11202,$0.004165,2689812,https://coinmarketcap.com/currencies/ucoin/
+377,AquariusCoin,ARCO,$10839,$0.011153,971771,https://coinmarketcap.com/currencies/aquariuscoin/
+378,Creatio,XCRE,$10783,$0.000538,20060012,https://coinmarketcap.com/currencies/creatio/
+379,Fastcoin,FST,$10747,$0.000085,126764507,https://coinmarketcap.com/currencies/fastcoin/
+380,AurumCoin,AU,$10551,$0.036027,292850,https://coinmarketcap.com/currencies/aurumcoin/
+381,LiteDoge,LDOGE,$10346,$7.6e-07,13697596139,https://coinmarketcap.com/currencies/litedoge/
+382,ZiftrCOIN,ZRC,$10292,$0.000806,12773630,https://coinmarketcap.com/currencies/ziftrcoin/
+383,8Bit,8BIT,$10232,$0.014371,711961,https://coinmarketcap.com/currencies/8bit/
+384,Cannabis Industry Coin,XCI,$10132,$0.026451,383044,https://coinmarketcap.com/currencies/cannabis-industry-coin/
+385,CoExistCoin,COXST,$10080,$0.000371,27138905,https://coinmarketcap.com/currencies/coexistcoin/
+386,Joulecoin,XJO,$9489,$0.000320,29664840,https://coinmarketcap.com/currencies/joulecoin/
+387,Destiny,DES,$9470,$0.005919,1600000,https://coinmarketcap.com/currencies/destiny/
+388,NevaCoin,NEVA,$9353,$0.007942,1177650,https://coinmarketcap.com/currencies/nevacoin/
+389,CageCoin,CAGE,$9305,$9.2e-08,101168328395,https://coinmarketcap.com/currencies/cagecoin/
+390,Viral,VIRAL,$8974,$0.001660,5407561,https://coinmarketcap.com/currencies/viral/
+391,RedCoin,RED,$8785,$0.000119,74107896,https://coinmarketcap.com/currencies/redcoin/
+392,BiosCrypto,BIOS,$8590,$0.000417,20581313,https://coinmarketcap.com/currencies/bios-crypto/
+393,FlavorCoin,FLVR,$8361,$0.000411,20346916,https://coinmarketcap.com/currencies/flavorcoin/
+394,BunnyCoin,BUN,$7803,$7.9e-08,99305953628,https://coinmarketcap.com/currencies/bunnycoin/
+395,BeaverCoin,BVC,$7742,$0.002529,3061424,https://coinmarketcap.com/currencies/beavercoin/
+396,Unitus,UIS,$7509,$0.000193,38974969,https://coinmarketcap.com/currencies/unitus/
+397,BumbaCoin,BUMBA,$7383,$0.000344,21454924,https://coinmarketcap.com/currencies/bumbacoin/
+398,Hommalicoin,HMC,$7345,$4.16,1765,https://coinmarketcap.com/currencies/hommalicoin/
+399,LeaCoin,LEA,$7080,$0.000032,223994400,https://coinmarketcap.com/currencies/leacoin/
+400,DigiCube,CUBE,$7037,$0.000004,1811377782,https://coinmarketcap.com/currencies/digicube/
+401,Rawcoin,XRC,$6999,$0.009929,704882,https://coinmarketcap.com/currencies/rawcoin2/
+402,SpaceCoin,SPACE,$6840,$0.000450,15185443,https://coinmarketcap.com/currencies/spacecoin/
+403,PLNcoin,PLNC,$6753,$0.000395,17089600,https://coinmarketcap.com/currencies/plncoin/
+404,RevolverCoin,XRE,$6749,$0.000340,19860507,https://coinmarketcap.com/currencies/revolvercoin/
+405,UniQredit,UNIQ,$6572,$0.000925,7105658,https://coinmarketcap.com/currencies/uniqredit/
+406,Emerald Crypto,EMD,$6541,$0.000348,18821148,https://coinmarketcap.com/currencies/emerald/
+407,IslaCoin,ISL,$6532,$0.004315,1513704,https://coinmarketcap.com/currencies/islacoin/
+408,WARP,WARP,$6131,$0.005598,1095224,https://coinmarketcap.com/currencies/warp/
+409,Cubits,QBT,$6114,$0.000111,55241348,https://coinmarketcap.com/currencies/cubits/
+410,bitEUR,BITEUR,$5979,$1.04,5721,https://coinmarketcap.com/currencies/biteur/
+411,Cypher,CYP,$5907,$0.000928,6365285,https://coinmarketcap.com/currencies/cypher/
+412,Philosopher Stones,PHS,$5855,$0.002410,2429219,https://coinmarketcap.com/currencies/philosopher-stones/
+413,Emirates Gold Coin,EMIRG,$5784,$0.005692,1016114,https://coinmarketcap.com/currencies/emirates-gold-coin/
+414,Prime-XI,PXI,$5757,$0.001272,4524561,https://coinmarketcap.com/currencies/prime-xi/
+415,Argentum,ARG,$5732,$0.000861,6654607,https://coinmarketcap.com/currencies/argentum/
+416,PayCon,CON,$5680,$0.000247,23042604,https://coinmarketcap.com/currencies/paycon/
+417,BipCoin,BIP,$5650,$0.008222,687173,https://coinmarketcap.com/currencies/bipcoin/
+418,AllSafe,SAFE,$5613,$0.000008,710000000,https://coinmarketcap.com/currencies/allsafe/
+419,AgrolifeCoin,AGLC,$5597,$0.003233,1731152,https://coinmarketcap.com/currencies/agrolifecoin/
+420,B3Coin,KB3,$5360,$0.020854,257044,https://coinmarketcap.com/currencies/b3coin/
+421,42-coin,42,$5321,$75.07,70.871773,https://coinmarketcap.com/currencies/42-coin/
+422,ChessCoin,CHESS,$5257,$0.000103,51172748,https://coinmarketcap.com/currencies/chesscoin/
+423,Phoenixcoin,PXC,$5242,$0.000103,51028100,https://coinmarketcap.com/currencies/phoenixcoin/
+424,SixEleven,611,$5195,$0.013118,396032,https://coinmarketcap.com/currencies/sixeleven/
+425,HamRadioCoin,HAM,$5113,$0.001035,4939211,https://coinmarketcap.com/currencies/hamradiocoin/
+426,Beatcoin,XBTS,$4874,$0.003197,1524686,https://coinmarketcap.com/currencies/beatcoin/
+427,Pura,PURA,$4863,$0.000024,205104665,https://coinmarketcap.com/currencies/pura/
+428,AntiBitcoin,ANTI,$4831,$0.000277,17465159,https://coinmarketcap.com/currencies/antibitcoin/
+429,Tigercoin,TGC,$4817,$0.000111,43536800,https://coinmarketcap.com/currencies/tigercoin/
+430,Francs,FRN,$4805,$0.002803,1714100,https://coinmarketcap.com/currencies/francs/
+431,Bitzeny,ZNY,$4780,$0.000063,75614500,https://coinmarketcap.com/currencies/bitzeny/
+432,Debitcoin,DBTC,$4504,$0.000253,17774239,https://coinmarketcap.com/currencies/debitcoin/
+433,CyberCoin,CC,$4338,$0.000008,548976735,https://coinmarketcap.com/currencies/cybercoin/
+434,ZetaMicron,ZMC,$4333,$0.000008,548148289,https://coinmarketcap.com/currencies/zetamicron/
+435,GameBet Coin,GBT,$4294,$0.000205,20899539,https://coinmarketcap.com/currencies/gamebet-coin/
+436,Evotion,EVO,$4234,$0.001715,2469220,https://coinmarketcap.com/currencies/evotion/
+437,OsmiumCoin,OS76,$4084,$0.004568,894026,https://coinmarketcap.com/currencies/osmiumcoin/
+438,Bikercoin,BIC,$4058,$0.000704,5767844,https://coinmarketcap.com/currencies/bikercoin/
+439,Spots,SPT,$3895,$0.000174,22406021,https://coinmarketcap.com/currencies/spots/
+440,Firecoin,FIRE,$3888,$0.039512,98394,https://coinmarketcap.com/currencies/firecoin/
+441,LanaCoin,LANA,$3825,$0.000008,484022598,https://coinmarketcap.com/currencies/lanacoin/
+442,Metal Music Coin,MTLMC3,$3793,$0.000048,79719140,https://coinmarketcap.com/currencies/metal-music-coin/
+443,Acoin,ACOIN,$3777,$0.003095,1220085,https://coinmarketcap.com/currencies/acoin/
+444,Orlycoin,ORLY,$3764,$0.000103,36646779,https://coinmarketcap.com/currencies/orlycoin/
+445,Triangles,TRI,$3748,$0.051414,72891,https://coinmarketcap.com/currencies/triangles/
+446,Pulse,PULSE,$3729,$0.000261,14298972,https://coinmarketcap.com/currencies/pulse/
+447,BlazeCoin,BLZ,$3630,$0.000006,584152191,https://coinmarketcap.com/currencies/blazecoin/
+448,Guncoin,GUN,$3482,$0.000024,146854778,https://coinmarketcap.com/currencies/guncoin/
+449,Zurcoin,ZUR,$3447,$0.000047,72588096,https://coinmarketcap.com/currencies/zurcoin/
+450,Unrealcoin,URC,$3442,$0.000490,7024402,https://coinmarketcap.com/currencies/unrealcoin/
+451,GamerholicCoin,GHC,$3398,$0.004354,780330,https://coinmarketcap.com/currencies/gamerholiccoin/
+452,WMCoin,WMC,$3371,$0.000292,11527489,https://coinmarketcap.com/currencies/wmcoin/
+453,Crypto,CTO,$3349,$0.000427,7847281,https://coinmarketcap.com/currencies/crypto/
+454,BitTokens,BXT,$3238,$0.007951,407196,https://coinmarketcap.com/currencies/bittokens/
+455,DAPPSTER,DLISK,$3154,$0.000032,100000000,https://coinmarketcap.com/currencies/dappster/
+456,AnarchistsPrime,ACP,$3101,$0.000706,4394874,https://coinmarketcap.com/currencies/anarchistsprime/
+457,DigitalPrice,DP,$2959,$0.000142,20803996,https://coinmarketcap.com/currencies/digitalprice/
+458,Cashout,CSH,$2917,$0.000833,3501850,https://coinmarketcap.com/currencies/cashout/
+459,Evil Coin,EVIL,$2901,$0.000168,17227840,https://coinmarketcap.com/currencies/evil-coin/
+460,Bolivarcoin,BOLI,$2868,$0.000612,4683075,https://coinmarketcap.com/currencies/bolivarcoin/
+461,Independent Money System,IMS,$2848,$0.000530,5368934,https://coinmarketcap.com/currencies/independent-money-system/
+462,Guarany,GUA,$2805,$0.007863,356748,https://coinmarketcap.com/currencies/guarany/
+463,G3N,G3N,$2749,$0.000364,7561891,https://coinmarketcap.com/currencies/genstake/
+464,Zonecoin,ZNE,$2735,$0.001059,2581970,https://coinmarketcap.com/currencies/zonecoin/
+465,High Voltage,HVCO,$2669,$0.001786,1494171,https://coinmarketcap.com/currencies/high-voltage/
+466,Dobbscoin,BOB,$2599,$0.000514,5060382,https://coinmarketcap.com/currencies/dobbscoin/
+467,PosEx,PEX,$2493,$0.001185,2102932,https://coinmarketcap.com/currencies/posex/
+468,Prototanium,PR,$2446,$0.012715,192408,https://coinmarketcap.com/currencies/prototanium/
+469,ParallelCoin,DUO,$2429,$0.008787,276471,https://coinmarketcap.com/currencies/parallelcoin/
+470,GuccioneCoin,GCC,$2405,$0.000119,20285537,https://coinmarketcap.com/currencies/guccionecoin/
+471,Bitcoin 21,XBTC21,$2382,$0.003003,793108,https://coinmarketcap.com/currencies/bitcoin-21/
+472,EGO,EGO,$2374,$0.000040,60000001,https://coinmarketcap.com/currencies/ego/
+473,NewYorkCoin,NYC,$2371,$4e-08,59719935819,https://coinmarketcap.com/currencies/newyorkcoin/
+474,FuzzBalls,FUZZ,$2298,$0.000577,3984350,https://coinmarketcap.com/currencies/fuzzballs/
+475,Chronos,CRX,$2270,$0.000032,71215728,https://coinmarketcap.com/currencies/chronos/
+476,Alexium,AUM,$2246,$0.000111,20297336,https://coinmarketcap.com/currencies/alexium/
+477,Aricoin,ARI,$2217,$0.000016,140262505,https://coinmarketcap.com/currencies/aricoin/
+478,Litecred,LTCR,$2191,$0.000072,30227750,https://coinmarketcap.com/currencies/litecred/
+479,PopularCoin,POP,$2178,$6.6e-07,3291070851,https://coinmarketcap.com/currencies/popularcoin/
+480,UniCoin,UNIC,$2107,$0.000767,2748323,https://coinmarketcap.com/currencies/unicoin/
+481,RonPaulCoin,RPC,$2043,$0.003042,671533,https://coinmarketcap.com/currencies/ronpaulcoin/
+482,PrimeChain,PRIME,$1927,$0.000537,3585867,https://coinmarketcap.com/currencies/primechain/
+483,LetItRide,LIR,$1898,$0.000055,34312838,https://coinmarketcap.com/currencies/letitride/
+484,808Coin,808,$1813,$0.000126,14339268,https://coinmarketcap.com/currencies/808coin/
+485,ChainCoin,CHC,$1795,$0.000190,9463967,https://coinmarketcap.com/currencies/chaincoin/
+486,Kittehcoin,MEOW,$1757,$7.3e-08,23905669976,https://coinmarketcap.com/currencies/kittehcoin/
+487,CorgiCoin,CORG,$1748,$0.000002,932361655,https://coinmarketcap.com/currencies/corgicoin/
+488,Vcoin,VCN,$1703,$0.000158,10774521,https://coinmarketcap.com/currencies/vcoin/
+489,LiteBar,LTB,$1700,$0.009617,176737,https://coinmarketcap.com/currencies/litebar/
+490,MustangCoin,MST,$1615,$0.002593,622752,https://coinmarketcap.com/currencies/mustangcoin/
+491,Photon,PHO,$1611,$1.8e-07,8762016619,https://coinmarketcap.com/currencies/photon/
+492,Experience Points,XP,$1579,$3.7e-08,42949928691,https://coinmarketcap.com/currencies/experience-points/
+493,Eurocoin,EUC,$1441,$0.000447,3220632,https://coinmarketcap.com/currencies/eurocoin/
+494,Pospro,PSP,$1424,$0.000031,45277483,https://coinmarketcap.com/currencies/pospro/
+495,MangoCoinz,MCZ,$1399,$0.000869,1609918,https://coinmarketcap.com/currencies/mangocoinz/
+496,PX,PX,$1360,$0.000024,57365222,https://coinmarketcap.com/currencies/px/
+497,ImpulseCoin,IMPS,$1280,$0.000063,20245510,https://coinmarketcap.com/currencies/impulsecoin/
+498,Comet,CMT,$1276,$0.002007,635700,https://coinmarketcap.com/currencies/comet/
+499,DPAY,DPAY,$1256,$0.000016,79541001,https://coinmarketcap.com/currencies/dpay/
+500,BitQuark,BTQ,$1217,$0.000229,5309916,https://coinmarketcap.com/currencies/bitquark/
+501,Steps,STEPS,$1206,$0.000065,18625017,https://coinmarketcap.com/currencies/steps/
+502,Levocoin,LEVO,$1141,$0.000190,6016122,https://coinmarketcap.com/currencies/levocoin/
+503,Dollarcoin,DLC,$994,$0.001400,709918,https://coinmarketcap.com/currencies/dollarcoin/
+504,Hundredcoin,HUN,$963,$0.000028,34807500,https://coinmarketcap.com/currencies/hundredcoin/
+505,C-Bit,XCT,$854,$0.000008,108037000,https://coinmarketcap.com/currencies/c-bit/
+506,Selfiecoin,SLFI,$850,$0.000008,107829281,https://coinmarketcap.com/currencies/selfiecoin/
+507,JobsCoin,JOBS,$837,$0.000008,106019270,https://coinmarketcap.com/currencies/jobscoin/
+508,PonziCoin,PONZI,$837,$0.000972,861099,https://coinmarketcap.com/currencies/ponzicoin/
+509,SydPak,SDP,$807,$0.005126,157472,https://coinmarketcap.com/currencies/sydpak/
+510,Zcashshare,ZHS,$782,$0.000277,2826000,https://coinmarketcap.com/currencies/zcashshare/
+511,Money,$$$,$725,$0.000016,45887218,https://coinmarketcap.com/currencies/money/
+512,Revenu,REV,$661,$0.000553,1195525,https://coinmarketcap.com/currencies/revenu/
+513,NodeCoin,NODC,$610,$0.000364,1678166,https://coinmarketcap.com/currencies/nodecoin/
+514,TajCoin,TAJ,$580,$0.000221,2619637,https://coinmarketcap.com/currencies/tajcoin/
+515,Zoin,ZOI,$546,$0.000237,2302700,https://coinmarketcap.com/currencies/zoin/
+516,Antilitecoin,ALTC,$498,$0.000016,31512613,https://coinmarketcap.com/currencies/antilitecoin/
+517,Regacoin,REGA,$462,$0.000016,29237053,https://coinmarketcap.com/currencies/regacoin/
+518,PWR Coin,PWR,$395,$0.000008,49983870,https://coinmarketcap.com/currencies/powercoin/
+519,P7Coin,P7C,$278,$0.000008,35220238,https://coinmarketcap.com/currencies/p7coin/
+520,SwapToken,TOKEN,$277,$0.000008,35110531,https://coinmarketcap.com/currencies/swaptoken/
+521,VapersCoin,VPRC,$271,$4e-07,670647464,https://coinmarketcap.com/currencies/vaperscoin/
+522,ImperialCoin,IPC,$221,$0.000001,157865000,https://coinmarketcap.com/currencies/imperialcoin/
+523,PizzaCoin,PIZZA,$163,$0.000119,1377917,https://coinmarketcap.com/currencies/pizzacoin/
+524,World Gold Coin,WGC,$147,$0.000047,3102200,https://coinmarketcap.com/currencies/world-gold-coin/
+525,CRTCoin,CRT,$125,$0.001580,79270,https://coinmarketcap.com/currencies/crtcoin/
+526,Californium,CF,$106,$0.000956,111110,https://coinmarketcap.com/currencies/californium/
+527,Enigma [XNG],XNG,$96,$0.005753,16627,https://coinmarketcap.com/currencies/enigma-xng/
+528,Digital Credits,DGCS,$46,$0.000008,5826388,https://coinmarketcap.com/currencies/digital-credits/
+529,MudraCoin,MUDRA,$40,$0.000008,5000000,https://coinmarketcap.com/currencies/mudracoin/
+530,23 Skidoo,CHAO,?,$2528.80,?,https://coinmarketcap.com/currencies/23-skidoo/
+531,RoyalCoin 2,RYCN,?,$5.77,?,https://coinmarketcap.com/currencies/royalcoin-2/
+532,Forevercoin,XFC,?,$3.56,?,https://coinmarketcap.com/currencies/forevercoin/
+533,Internet of People,IOP,?,$1.82,?,https://coinmarketcap.com/currencies/internet-of-people/
+534,NxttyACCI,ACCI,?,$1.78,?,https://coinmarketcap.com/currencies/nxttyacci/
+535,Pluton,PLU,?,$1.03,?,https://coinmarketcap.com/currencies/pluton/
+536,E-Dinar Coin,EDR,?,$0.661948,?,https://coinmarketcap.com/currencies/e-dinar-coin/
+537,BFX,BFX,?,$0.535297,?,https://coinmarketcap.com/currencies/bfx/
+538,LEOcoin,LEO,?,$0.511135,?,https://coinmarketcap.com/currencies/leocoin/
+539,ClubCoin,CLUB,?,$0.466246,?,https://coinmarketcap.com/currencies/clubcoin/
+540,TechShares,THS,?,$0.460207,?,https://coinmarketcap.com/currencies/techshares/
+541,Cryptographic Anomaly,CGA,?,$0.327637,?,https://coinmarketcap.com/currencies/cryptographic-anomaly/
+542,MaskCoin,MSK,?,$0.317994,?,https://coinmarketcap.com/currencies/maskcoin/
+543,Wowecoin,WEC,?,$0.269000,?,https://coinmarketcap.com/currencies/wowecoin/
+544,DECENT,DCT,?,$0.188823,?,https://coinmarketcap.com/currencies/decent/
+545,DeepWebCash,DWC,?,$0.157308,?,https://coinmarketcap.com/currencies/deepwebcash/
+546,TRMB,TRMB,?,$0.143695,?,https://coinmarketcap.com/currencies/trmb/
+547,Index Coin,IDC,?,$0.126451,?,https://coinmarketcap.com/currencies/index-coin/
+548,Incent,INCNT,?,$0.112347,?,https://coinmarketcap.com/currencies/incent/
+549,HEAT,HEAT,?,$0.106418,?,https://coinmarketcap.com/currencies/heat-ledger/
+550,AxFunds,AXF,?,$0.098963,?,https://coinmarketcap.com/currencies/axfunds/
+551,DynamicCoin,DMC,?,$0.096622,?,https://coinmarketcap.com/currencies/dynamiccoin/
+552,FirstBlood,1ST,?,$0.093936,?,https://coinmarketcap.com/currencies/firstblood/
+553,Golos,GOLOS,?,$0.092397,?,https://coinmarketcap.com/currencies/golos/
+554,The DAO,DAO,?,$0.076270,?,https://coinmarketcap.com/currencies/the-dao/
+555,WA Space,WA,?,$0.073598,?,https://coinmarketcap.com/currencies/wa-space/
+556,Omicron,OMC,?,$0.067187,?,https://coinmarketcap.com/currencies/omicron/
+557,AlpaCoin,APC,?,$0.065709,?,https://coinmarketcap.com/currencies/alpacoin/
+558,EDRCoin,EDRC,?,$0.050320,?,https://coinmarketcap.com/currencies/edrcoin/
+559,Mind Gene,MG,?,$0.049803,?,https://coinmarketcap.com/currencies/mind-gene/
+560,BigLifeCoin,LFC,?,$0.042673,?,https://coinmarketcap.com/currencies/biglifecoin/
+561,TBCoin,TBC,?,$0.019595,?,https://coinmarketcap.com/currencies/tbcoin/
+562,GBCGoldCoin,GBC,?,$0.016300,?,https://coinmarketcap.com/currencies/gbcgoldcoin/
+563,UNCoin,UNC,?,$0.015979,?,https://coinmarketcap.com/currencies/uncoin/
+564,Hush,HUSH,?,$0.015811,?,https://coinmarketcap.com/currencies/hush/
+565,CaliphCoin,CALC,?,$0.011984,?,https://coinmarketcap.com/currencies/caliphcoin/
+566,LeCoin,LEC,?,$0.011476,?,https://coinmarketcap.com/currencies/lecoin/
+567,DeltaCredits,DCRE,?,$0.011340,?,https://coinmarketcap.com/currencies/deltacredits/
+568,Timekoin,TK,?,$0.011000,?,https://coinmarketcap.com/currencies/timekoin/
+569,President Johnson,GARY,?,$0.008965,?,https://coinmarketcap.com/currencies/president-johnson/
+570,Happy Creator Coin,HCC,?,$0.007120,?,https://coinmarketcap.com/currencies/happy-creator-coin/
+571,Neptunecoin,NTC,?,$0.006862,?,https://coinmarketcap.com/currencies/neptunecoin/
+572,KolschCoin,TP1,?,$0.006227,?,https://coinmarketcap.com/currencies/kolschcoin/
+573,President Trump,PRES,?,$0.005028,?,https://coinmarketcap.com/currencies/president-trump/
+574,Alphabit,ABC,?,$0.003746,?,https://coinmarketcap.com/currencies/alphabitcoinfund/
+575,BagCoin,BGC,?,$0.003735,?,https://coinmarketcap.com/currencies/bagcoin/
+576,Advanced Internet Blocks,AIB,?,$0.003714,?,https://coinmarketcap.com/currencies/advanced-internet-blocks/
+577,Sharkcoin,SAK,?,$0.003540,?,https://coinmarketcap.com/currencies/sharkcoin/
+578,Global Business Revolution,GBRC,?,$0.003289,?,https://coinmarketcap.com/currencies/global-business-revolution/
+579,TaoPay,TAO,?,$0.003208,?,https://coinmarketcap.com/currencies/taopay/
+580,GSS Coin,GSS,?,$0.003018,?,https://coinmarketcap.com/currencies/gss-coin/
+581,First Bitcoin,BIT,?,$0.002767,?,https://coinmarketcap.com/currencies/first-bitcoin/
+582,Digitalfund,DTF,?,$0.002730,?,https://coinmarketcap.com/currencies/digitalfund/
+583,RoyalCoin,ROYAL,?,$0.002629,?,https://coinmarketcap.com/currencies/royalcoin/
+584,Vibranium,XVI,?,$0.002063,?,https://coinmarketcap.com/currencies/vibranium/
+585,Rhodiumcoin,RHO,?,$0.001636,?,https://coinmarketcap.com/currencies/rhodiumcoin/
+586,Motocoin,MOTO,?,$0.001613,?,https://coinmarketcap.com/currencies/motocoin/
+587,EggCoin,EGG,?,$0.001209,?,https://coinmarketcap.com/currencies/eggcoin/
+588,Peacecoin,PEC,?,$0.000751,?,https://coinmarketcap.com/currencies/peacecoin/
+589,OCOW,OCOW,?,$0.000703,?,https://coinmarketcap.com/currencies/ocow/
+590,netBit,NBIT,?,$0.000672,?,https://coinmarketcap.com/currencies/netbit/
+591,BitAlphaCoin,BAC,?,$0.000624,?,https://coinmarketcap.com/currencies/bitalphacoin/
+592,GoldMaxCoin,GMX,?,$0.000585,?,https://coinmarketcap.com/currencies/goldmaxcoin/
+593,KiloCoin,KLC,?,$0.000490,?,https://coinmarketcap.com/currencies/kilocoin/
+594,Clinton,CLINT,?,$0.000457,?,https://coinmarketcap.com/currencies/clinton/
+595,Kurrent,KURT,?,$0.000446,?,https://coinmarketcap.com/currencies/kurrent/
+596,CHNCoin,CNC,?,$0.000439,?,https://coinmarketcap.com/currencies/chncoin/
+597,SoonCoin,SOON,?,$0.000356,?,https://coinmarketcap.com/currencies/sooncoin/
+598,Local Family Owned,LFO,?,$0.000354,?,https://coinmarketcap.com/currencies/local-family-owned/
+599,MetalCoin,METAL,?,$0.000284,?,https://coinmarketcap.com/currencies/metalcoin/
+600,FutCoin,FUTC,?,$0.000284,?,https://coinmarketcap.com/currencies/futcoin/
+601,FrankyWillCoin,FRWC,?,$0.000261,?,https://coinmarketcap.com/currencies/frankywillcoin/
+602,GameLeagueCoin,GML,?,$0.000253,?,https://coinmarketcap.com/currencies/gameleaguecoin/
+603,FedoraShare,FEDS,?,$0.000170,?,https://coinmarketcap.com/currencies/fedorashare/
+604,Braincoin,BRAIN,?,$0.000166,?,https://coinmarketcap.com/currencies/braincoin/
+605,Bitcurrency,BTCR,?,$0.000142,?,https://coinmarketcap.com/currencies/bitcurrency/
+606,RubleBit,RUBIT,?,$0.000134,?,https://coinmarketcap.com/currencies/rublebit/
+607,AsicCoin,ASC,?,$0.000111,?,https://coinmarketcap.com/currencies/asiccoin/
+608,Flaxscript,FLAX,?,$0.000103,?,https://coinmarketcap.com/currencies/flaxscript/
+609,Wowcoin,WOW,?,$0.000087,?,https://coinmarketcap.com/currencies/wowcoin/
+610,Quebecoin,QBC,?,$0.000087,?,https://coinmarketcap.com/currencies/quebecoin/
+611,CBD Crystals,CBD,?,$0.000084,?,https://coinmarketcap.com/currencies/cbd-crystals/
+612,Lazaruscoin,LAZ,?,$0.000079,?,https://coinmarketcap.com/currencies/lazaruscoin/
+613,PabyosiCoin,PBC,?,$0.000071,?,https://coinmarketcap.com/currencies/pabyosicoin/
+614,LinkedCoin,LKC,?,$0.000063,?,https://coinmarketcap.com/currencies/linkedcoin/
+615,TodayCoin,TODAY,?,$0.000055,?,https://coinmarketcap.com/currencies/todaycoin/
+616,SportsCoin,SPORT,?,$0.000055,?,https://coinmarketcap.com/currencies/sportscoin/
+617,FitCoin,FIT,?,$0.000047,?,https://coinmarketcap.com/currencies/fitcoin/
+618,Rcoin,RCN,?,$0.000047,?,https://coinmarketcap.com/currencies/rcoin/
+619,MobileCash,MBL,?,$0.000040,?,https://coinmarketcap.com/currencies/mobilecash/
+620,DigiEuro,DEUR,?,$0.000032,?,https://coinmarketcap.com/currencies/digieuro/
+621,VegasCoin,VGC,?,$0.000032,?,https://coinmarketcap.com/currencies/vegascoin/
+622,UGAIN,GAIN,?,$0.000024,?,https://coinmarketcap.com/currencies/ugain/
+623,Aces,ACES,?,$0.000024,?,https://coinmarketcap.com/currencies/aces/
+624,Skeincoin,SKC,?,$0.000024,?,https://coinmarketcap.com/currencies/skeincoin/
+625,Moneta,MONETA,?,$0.000024,?,https://coinmarketcap.com/currencies/moneta2/
+626,Sakuracoin,SKR,?,$0.000024,?,https://coinmarketcap.com/currencies/sakuracoin/
+627,PayPeer,PAYP,?,$0.000016,?,https://coinmarketcap.com/currencies/paypeer/
+628,Cashme,CME,?,$0.000008,?,https://coinmarketcap.com/currencies/cashme/
+629,Golfcoin,GOLF,?,$0.000008,?,https://coinmarketcap.com/currencies/golfcoin/
+630,Victoriouscoin,VTY,?,$0.000008,?,https://coinmarketcap.com/currencies/victoriouscoin/
+631,GanjaCoin V2,GNJ,?,$0.000008,?,https://coinmarketcap.com/currencies/ganjacoin-v2/
+632,TeamUp,TEAM,?,$0.000008,?,https://coinmarketcap.com/currencies/teamup/
+633,SuperStakeToken,SST,?,$0.000008,?,https://coinmarketcap.com/currencies/superstaketoken/
+634,ChoofCoin,CHOOF,?,$0.000008,?,https://coinmarketcap.com/currencies/choofcoin/
+635,Zcrypt,ZXT,?,$0.000008,?,https://coinmarketcap.com/currencies/zcrypt/
+636,X2,X2,?,$0.000008,?,https://coinmarketcap.com/currencies/x2/
+637,SuperTurboStake,STRB,?,$0.000008,?,https://coinmarketcap.com/currencies/superturbostake/
+638,SafeCoin,SFE,?,$0.000008,?,https://coinmarketcap.com/currencies/safecoin-old/
+639,President Clinton,HILL,?,$0.000008,?,https://coinmarketcap.com/currencies/president-clinton/
+640,PACcoin,$PAC,?,$3.3e-09,?,https://coinmarketcap.com/currencies/paccoin/
